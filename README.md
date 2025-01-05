@@ -1,1 +1,1 @@
-# First, create a database named 'PostCommentDB' and then run it.
+# First, create a database named 'SalesCampaign' and then run it.
